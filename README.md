@@ -2,9 +2,9 @@
 # MERN stack for Dalle Image geneartion and purchase
 A platform to generate AI-created images, display and the potential to purchase them within a gallery setting.
 
-<img width="457" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/f1ac3638-2c80-468f-a581-c0fbdbc67db7">
-<img width="653" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/c6a59c46-cb14-49de-9cdf-cefb154f3599">
-<img width="624" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/17c6d18d-786d-43c2-ac81-77fb0bad4c51">
+<img width="557" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/f1ac3638-2c80-468f-a581-c0fbdbc67db7">
+<img width="557" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/c6a59c46-cb14-49de-9cdf-cefb154f3599">
+<img width="557" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/17c6d18d-786d-43c2-ac81-77fb0bad4c51">
 
 ## Overview
 MERN (MongoDB, Express.js, React, Node.js) application that leverages OpenAI's DALL-E model to generate images dynamically based on user-provided descriptions. Users can contribute their unique images to a gallery and have the option to add selected images to a shopping cart for purchase. This platform seamlessly combines the power of MongoDB for data storage, Express.js for server-side functionality, React for an interactive user interface, and Node.js for server-side JavaScript execution.
