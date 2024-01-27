@@ -2,13 +2,13 @@
 # MERN stack for Dalle Image geneartion and purchase
 A platform to generate AI-created images, display and the potential to purchase them within a gallery setting.
 
-  <img width="657" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/f1ac3638-2c80-468f-a581-c0fbdbc67db7">
+<kbd><img width="657" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/f1ac3638-2c80-468f-a581-c0fbdbc67db7"></kbd>
 
 
-<img width="457" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/c6a59c46-cb14-49de-9cdf-cefb154f3599">
+<kbd><img width="457" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/c6a59c46-cb14-49de-9cdf-cefb154f3599"></kbd>
 
 
-<img width="457" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/17c6d18d-786d-43c2-ac81-77fb0bad4c51">
+<kbd><img width="457" alt="image" src="https://github.com/Malini-ux/AI-generated-art-market-MERN/assets/114894629/17c6d18d-786d-43c2-ac81-77fb0bad4c51"></kbd>
 
 
 ## Overview
